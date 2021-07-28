@@ -32,9 +32,9 @@ copyright = ""
 custom_script = ""
 description = ""
 email = ""
-favicon = "images/favicon.png"
+favicon = ""
 logo = ""
-logo_width = "100px"
+logo_width = ""
 mobile = ""
 [params.cookies]
 enable = false
