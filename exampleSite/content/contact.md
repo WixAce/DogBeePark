@@ -2,7 +2,6 @@
 title: EmojiLinePuzzle
 description: An Emoji Matching Game
 image: "/images/banner.png"
-draft: true
 
 ---
 # **PRIVACY NOTICE**
