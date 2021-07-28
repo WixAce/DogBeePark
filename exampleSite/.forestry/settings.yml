@@ -19,7 +19,7 @@ sections:
 - type: directory
   path: exampleSite/content
   label: All Pages
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - post
