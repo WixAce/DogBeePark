@@ -18,5 +18,6 @@ fields:
   name: categories
   label: categories
 pages:
+- exampleSite/content/emoji-line-puzzle.md
 - exampleSite/content/post/emoji-line-puzzle.md
 - exampleSite/content/post/emoji-line-puzzle.md
