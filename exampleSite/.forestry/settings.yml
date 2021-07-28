@@ -23,7 +23,6 @@ sections:
   match: "**/*"
   templates:
   - post
-  - new-page
 - type: heading
   label: Configuration
 - type: document
