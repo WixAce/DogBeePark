@@ -1,6 +1,6 @@
 +++
 categories = []
-date = ""
+date = 2021-07-27T16:00:00Z
 description = "An Emoji Matching Game"
 image = "/images/banner.png"
 title = "Emoji Line Puzzle"
