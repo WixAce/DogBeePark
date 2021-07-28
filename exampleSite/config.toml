@@ -28,7 +28,7 @@ home = ["HTML", "RSS"]
 [params]
 address = ""
 author = ""
-copyright = ""
+copyright = "DogBeePark"
 custom_script = ""
 description = ""
 email = ""
