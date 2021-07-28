@@ -20,31 +20,31 @@ This privacy notice applies to all information collected through our Services (w
 
 **TABLE OF CONTENTS**
 
-[1. WHAT INFORMATION DO WE COLLECT?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#infocollect)
+1\. WHAT INFORMATION DO WE COLLECT?
 
-[2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#infoshare)
+2\. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
-[3. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#intltransfers)
+3\. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
 
-[4. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#3pwebsites)
+4\. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?
 
-[5. HOW LONG DO WE KEEP YOUR INFORMATION?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#inforetain)
+5\. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-[6. HOW DO WE KEEP YOUR INFORMATION SAFE?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#infosafe)
+6\. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
-[7. DO WE COLLECT INFORMATION FROM MINORS?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#infominors)
+7\. DO WE COLLECT INFORMATION FROM MINORS?
 
-[8. WHAT ARE YOUR PRIVACY RIGHTS?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#privacyrights)
+8\. WHAT ARE YOUR PRIVACY RIGHTS?
 
-[9. CONTROLS FOR DO-NOT-TRACK FEATURES](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#DNT)
+9\. CONTROLS FOR DO-NOT-TRACK FEATURES
 
-[10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#caresidents)
+10\. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
-[11. DO WE MAKE UPDATES TO THIS NOTICE?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#policyupdates)
+11\. DO WE MAKE UPDATES TO THIS NOTICE?
 
-[12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#contact)
+12\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-[13. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#request)
+13\. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
 
 **1. WHAT INFORMATION DO WE COLLECT?**
 
@@ -79,7 +79,7 @@ More specifically, we may need to process your data or share your personal infor
 
 **_In Short:_** _We may transfer, store, and process your information in countries other than your own._
 
-Our servers are located in. If you are accessing our App from outside, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "[WILL YOUR INFORMATION BE SHARED WITH ANYONE?](https://app.termly.io/dashboard/website/b0eb7dff-b64c-44b3-be1d-1b538ff0193b/privacy-policy#infoshare)" above), in and other countries.
+Our servers are located in. If you are accessing our App from outside, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information (see "WILL YOUR INFORMATION BE SHARED WITH ANYONE?" above), in and other countries.
 
 If you are a resident in the European Economic Area (EEA) or United Kingdom (UK), then these countries may not necessarily have data protection laws or other similar laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy notice and applicable law.
 
@@ -113,9 +113,9 @@ We do not knowingly solicit data from or market to children under 18 years of ag
 
 **_In Short:_** _You may review, change, or terminate your account at any time._
 
-If you are a resident in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: [http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm "http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm").
+If you are a resident in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
 
-If you are a resident in Switzerland, the contact details for the data protection authorities are available here: [https://www.edoeb.admin.ch/edoeb/en/home.html](https://www.edoeb.admin.ch/edoeb/en/home.html "https://www.edoeb.admin.ch/edoeb/en/home.html").
+If you are a resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
 
 **9. CONTROLS FOR DO-NOT-TRACK FEATURES**
 
