@@ -21,6 +21,7 @@ sections:
   label: All Pages
   create: documents
   match: "**/*"
+  exclude: post
   templates:
   - post
 - type: heading
