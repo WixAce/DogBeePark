@@ -1,7 +1,7 @@
 +++
 categories = []
 date = ""
-description = ""
+description = "Have fun while practicing concentration skills and attention to detail with this emoji mathcing game."
 image = "/images/banner.png"
 title = "Emoji Line Puzzle"
 
