@@ -26,16 +26,16 @@ weight = 4
 [outputs]
 home = ["HTML", "RSS"]
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
-copyright = "Designed & Developed By [Gethugothemes](https://gethugothemes.com/)"
+address = ""
+author = ""
+copyright = ""
 custom_script = ""
-description = "This is meta description"
-email = "info@email.com"
+description = ""
+email = ""
 favicon = "images/favicon.png"
-logo = "images/logo.png"
+logo = ""
 logo_width = "100px"
-mobile = "+211234565523"
+mobile = ""
 [params.cookies]
 enable = false
 expire_days = 2
