@@ -7,10 +7,8 @@ theme = "touchy-hugo"
 title = "DogBeePark"
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 1
+[menu]
+main = []
 [outputs]
 home = ["HTML", "RSS"]
 [params]
