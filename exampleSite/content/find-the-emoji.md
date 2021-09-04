@@ -2,8 +2,7 @@
 categories = []
 date = 2021-07-27T16:00:00Z
 description = "An Emoji Finding Game"
-draft = true
-image = "/images/big-text.png"
+image = ""
 title = "Find The Emoji"
 
 +++
